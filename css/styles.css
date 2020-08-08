@@ -1,0 +1,79 @@
+body{
+  margin: 0;
+  text-align: center;
+ font-family: 'Merriweather', serif;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  padding-top: 100px;
+}
+h2{
+  font-family: 'Cinzel Decorative', cursive;
+}
+.bbox{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  right: 94%;
+}
+.gf{
+  height:50px;
+  width: 50px;
+  position: relative;
+  top: 140px;
+  left: 80px;
+}
+.top{
+  background-color:   #64a1f4;
+}
+.stick{
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  right: 47%;
+  bottom: 650px;
+  top: 0;
+    margin-top: 50px;
+}
+.simg{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  left: 200px;
+  bottom: 600px;
+}
+.ssimg{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  right: 200px;
+  bottom: 600px;
+
+}
+.pot{
+  height: 140px;
+  width: 140px;
+  padding-top: 30px;
+}
+.tree{
+  position: absolute;
+  right: 400px;
+  top:100px;
+}
+.tree2{
+  position: absolute;
+  left: 400px;
+  top:100px;
+}
+.middle-container{
+  background-color:   #add6ff;
+  margin-bottom: 0;
+}
+.bottom{
+  background-color: #84c1ff;
+}
+p{
+  margin-bottom: 0;
+  padding-bottom: 50px;
+}
